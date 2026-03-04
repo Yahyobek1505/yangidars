@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+}
+
+.kitob {
+    color: rgb(229, 179, 29);
+    font-size: 60px;
+    border: 1px solid rgba(18, 223, 35, 0.988);
+    width: 300px;
+}
+
+
+#kitob{
+
+color: pink;
+}
